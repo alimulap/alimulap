@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi! I am 4methyst! Nice to meet you!
+
+I love programming. I am now learing game programming stuff. But I do have interest in other fields too! If you want to discuss together about programming stuff or just want to talk with me feel free to contact me via discord(`Alim#8261`)! 
 
 <!--
 **4methyst/4methyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
